@@ -1,5 +1,5 @@
-The-Couch-potato--Content-Management-System-
-=============================================
+The Couch Potato--CMS
+=======================
 The Couch Potato CMS is a content Management system application created as project work for the subject Content Management System during my course MSc(CA) at SICSR.
 
 
