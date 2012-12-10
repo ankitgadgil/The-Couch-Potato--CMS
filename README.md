@@ -21,7 +21,7 @@ line, without requiring a lot of technical knowledge. It is an attempt to create
 
 While using the system:
 
-Refer database for administrator login user: hulk
+Refer database for administrator login user: hulk | password: hulk123
 
 or 
 
